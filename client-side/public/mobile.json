@@ -1,0 +1,302 @@
+[
+    {
+        "name": "iPhone 13",
+        "price": 49999.99,
+        "brand": "Apple",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "iOS",
+        "processor": "Apple A15 Bionic",
+        "RAM": "6GB"
+    },
+    {
+        "name": "iPhone 13 Pro",
+        "price": 69999.99,
+        "brand": "Apple",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "256GB",
+        "OS": "iOS",
+        "processor": "Apple A15 Bionic",
+        "RAM": "8GB"
+    },
+    {
+        "name": "iPhone 13 Mini",
+        "price": 44999.99,
+        "brand": "Apple",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "iOS",
+        "processor": "Apple A15 Bionic",
+        "RAM": "4GB"
+    },
+    {
+        "name": "iPhone SE",
+        "price": 29999.99,
+        "brand": "Apple",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "iOS",
+        "processor": "Apple A14 Bionic",
+        "RAM": "4GB"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "price": 38999.99,
+        "brand": "Samsung",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "256GB",
+        "OS": "Android",
+        "processor": "Exynos 2100",
+        "RAM": "8GB"
+    },
+    {
+        "name": "Samsung Galaxy Note 20",
+        "price": 56999.99,
+        "brand": "Samsung",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "512GB",
+        "OS": "Android",
+        "processor": "Exynos 990",
+        "RAM": "12GB"
+    },
+    {
+        "name": "Samsung Galaxy S20 FE",
+        "price": 32999.99,
+        "brand": "Samsung",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "Android",
+        "processor": "Exynos 990",
+        "RAM": "6GB"
+    },
+    {
+        "name": "Samsung Galaxy Z Flip 3",
+        "price": 74999.99,
+        "brand": "Samsung",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "256GB",
+        "OS": "Android",
+        "processor": "Snapdragon 888",
+        "RAM": "8GB"
+    },
+    {
+        "name": "OnePlus 9",
+        "price": 32999.99,
+        "brand": "OnePlus",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "256GB",
+        "OS": "Android",
+        "processor": "Snapdragon 888",
+        "RAM": "8GB"
+    },
+    {
+        "name": "OnePlus 9 Pro",
+        "price": 44999.99,
+        "brand": "OnePlus",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "512GB",
+        "OS": "Android",
+        "processor": "Snapdragon 888",
+        "RAM": "12GB"
+    },
+    {
+        "name": "OnePlus 9R",
+        "price": 27999.99,
+        "brand": "OnePlus",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "Android",
+        "processor": "Snapdragon 870",
+        "RAM": "8GB"
+    },
+    {
+        "name": "Xiaomi Mi 11",
+        "price": 24999.99,
+        "brand": "Xiaomi",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "Android",
+        "processor": "Snapdragon 888",
+        "RAM": "8GB"
+    },
+    {
+        "name": "Xiaomi Redmi Note 10",
+        "price": 16999.99,
+        "brand": "Xiaomi",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "Android",
+        "processor": "Snapdragon 678",
+        "RAM": "4GB"
+    },
+    {
+        "name": "Xiaomi Poco X3",
+        "price": 18999.99,
+        "brand": "Xiaomi",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "Android",
+        "processor": "Snapdragon 732G",
+        "RAM": "6GB"
+    },
+    {
+        "name": "Nokia 8.3",
+        "price": 27999.99,
+        "brand": "Nokia",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "Android",
+        "processor": "Snapdragon 765G",
+        "RAM": "6GB"
+    },
+    {
+        "name": "Nokia X20",
+        "price": 22999.99,
+        "brand": "Nokia",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "Android",
+        "processor": "Snapdragon 480",
+        "RAM": "6GB"
+    },
+    {
+        "name": "Nokia 7.2",
+        "price": 19999.99,
+        "brand": "Nokia",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "Android",
+        "processor": "Snapdragon 660",
+        "RAM": "4GB"
+    },
+    {
+        "name": "Xiaomi Redmi Note 9 Pro",
+        "price": 21999.99,
+        "brand": "Xiaomi",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "Android",
+        "processor": "Snapdragon 720G",
+        "RAM": "6GB"
+    },
+    {
+        "name": "Xiaomi Mi 10T Pro",
+        "price": 44999.99,
+        "brand": "Xiaomi",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "256GB",
+        "OS": "Android",
+        "processor": "Snapdragon 865",
+        "RAM": "8GB"
+    },
+    {
+        "name": "Nokia G20",
+        "price": 16999.99,
+        "brand": "Nokia",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "Android",
+        "processor": "Mediatek G35",
+        "RAM": "4GB"
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "price": 89999.99,
+        "brand": "Samsung",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "512GB",
+        "OS": "Android",
+        "processor": "Exynos 2200",
+        "RAM": "16GB"
+    },
+    {
+        "name": "OnePlus Nord 2",
+        "price": 34999.99,
+        "brand": "OnePlus",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "256GB",
+        "OS": "Android",
+        "processor": "MediaTek Dimensity 1200",
+        "RAM": "12GB"
+    },
+    {
+        "name": "Nokia 5.4",
+        "price": 14999.99,
+        "brand": "Nokia",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "Android",
+        "processor": "Snapdragon 662",
+        "RAM": "4GB"
+    },
+    {
+        "name": "Samsung Galaxy Z Fold 3",
+        "price": 129999.99,
+        "brand": "Samsung",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "512GB",
+        "OS": "Android",
+        "processor": "Snapdragon 888",
+        "RAM": "12GB"
+    },
+    {
+        "name": "OnePlus 8T",
+        "price": 37999.99,
+        "brand": "OnePlus",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "256GB",
+        "OS": "Android",
+        "processor": "Snapdragon 865",
+        "RAM": "12GB"
+    },
+    {
+        "name": "Xiaomi Redmi Note 8",
+        "price": 14999.99,
+        "brand": "Xiaomi",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "Android",
+        "processor": "Snapdragon 665",
+        "RAM": "4GB"
+    },
+    {
+        "name": "Samsung Galaxy A52",
+        "price": 34999.99,
+        "brand": "Samsung",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "Android",
+        "processor": "Snapdragon 720G",
+        "RAM": "6GB"
+    },
+    {
+        "name": "OnePlus Nord",
+        "price": 24999.99,
+        "brand": "OnePlus",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "128GB",
+        "OS": "Android",
+        "processor": "Snapdragon 765G",
+        "RAM": "8GB"
+    },
+    {
+        "name": "Xiaomi Redmi 9",
+        "price": 12999.99,
+        "brand": "Xiaomi",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "Android",
+        "processor": "MediaTek Helio G80",
+        "RAM": "4GB"
+    },
+    {
+        "name": "Nokia 6.2",
+        "price": 18999.99,
+        "brand": "Nokia",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/011/047/536/small_2x/smartphone-and-mobile-phone-free-png.png",
+        "memory": "64GB",
+        "OS": "Android",
+        "processor": "Snapdragon 636",
+        "RAM": "4GB"
+    }
+]
